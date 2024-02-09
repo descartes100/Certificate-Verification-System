@@ -46,16 +46,13 @@ This command runs the test suite and generates a coverage report, detailing the 
 
 ## Test Coverage Results
 
--------------------------------------------|----------|----------|----------|----------|----------------|
 File                                       |  % Stmts | % Branch |  % Funcs |  % Lines |Uncovered Lines |
 -------------------------------------------|----------|----------|----------|----------|----------------|
  contracts\                                |    80.91 |    52.08 |    78.38 |    79.45 |                |
   EducationalInstitutionsSmartContract.sol |    82.35 |    71.43 |    77.78 |    86.36 |    112,115,119 |
   EmployerSmartContract.sol                |    84.09 |    42.86 |    81.25 |    86.21 |... 158,160,161 |
   StudentSmartContract.sol                 |    77.55 |    61.54 |       75 |    71.21 |... 115,125,135 |
--------------------------------------------|----------|----------|----------|----------|----------------|
 All files                                  |    80.91 |    52.08 |    78.38 |    79.45 |                |
--------------------------------------------|----------|----------|----------|----------|----------------|
 
 These metrics indicate the comprehensiveness of the test suite in covering the smart contract code, ensuring reliability and robustness of the deployed contracts.
 
