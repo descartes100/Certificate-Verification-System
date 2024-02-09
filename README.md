@@ -1,7 +1,7 @@
 # Blockchain-Based Certificate Verification System
 
 ## Introduction
-This blockchain project facilitates the issuance, verification, and management of educational certificates on the Ethereum network. It consists of three smart contracts tailored for educational institutions, students, and employers, streamlining the certificate verification process for employment purposes.
+This project utilizes Ethereum smart contracts to create a decentralized platform for issuing, verifying, and managing educational certificates and degrees. It aims to streamline the process of graduation certificate issuance by educational institutions, verification by potential employers, and management by students. The system comprises three main smart contracts: EducationalInstitutionsSmartContract, StudentSmartContract, and EmployerSmartContract.
 
 ## Prerequisites
 - Node.js and npm
